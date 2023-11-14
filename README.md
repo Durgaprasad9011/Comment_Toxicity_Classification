@@ -51,7 +51,7 @@ jigsaw-toxic-comment-classification-challenge
 - *You can also use python3 based on your terminal's conventions. Ensure to run this command to initiate the application.*
 - *which will direct you to open the following interface:*
 
-![Alt Text] (https://drive.google.com/uc?id=1wpBcUWJuR8UHNWmG0t11_uopfCoedAzy)
+![Alt Text](https://drive.google.com/uc?id=1wpBcUWJuR8UHNWmG0t11_uopfCoedAzy)
 
 - *Now, you can type a comment and click on "Submit." The output will classify the comment into categories, including toxicity, severe toxicity, obscenity, threats, insults, and identity hate.*
 
